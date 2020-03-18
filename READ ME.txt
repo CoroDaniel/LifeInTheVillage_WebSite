@@ -1,0 +1,10 @@
+Accesati "index" pentru a vizualiza proiectul web.
+
+Acest proiect a fost realizat de Coroian Daniel impreuna cu Pop Mihai. 
+Intreg continutul a fost realizat din surse proprii.
+Pentru captura fiecarei imagini/video am fost pe "teren" atat la bunicii nostri cat si la alti oameni din diverse sate, iar textul a fost scris din proprie inspiratie.
+
+-In acest site web este prezentata perspectiva vietii in zonele rurale infatisand diverse activitati, obiecte, animale domestice etc.
+-Acestea sunt descrise,dar si reprezentate prin poze si video-uri de la sate.
+-Exista un meniu principal sus pe orizontala, iar pentru fiecare pagina al meniului exista un submeniu vertical pe partea stanga cu mai multe pagini corespunzatoare acestuia. 
+

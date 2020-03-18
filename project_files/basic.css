@@ -1,0 +1,95 @@
+body {margin:0;}
+
+.meniu-principal {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+.meniu-principal li {
+    float: left;
+}
+
+.meniu-principal li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.meniu-principal li a:hover:not(.active) {
+    background-color: #111;
+}
+
+.meniu-principal .active {
+    background-color: #663300;
+}
+
+.continut {
+	padding:20px;
+	margin-top:30px;
+	height:1500px;
+}
+
+
+.meniu-secundar {
+	list-style-type : none;
+	position: fixed;
+}
+
+.meniu-secundar ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 200px;
+    background-color: #f1f1f1;
+}
+
+.meniu-secundar li a {
+    display: block;
+    color: #000;
+    padding: 11px 9px;
+    text-decoration: none;
+}
+
+.meniu-secundar li a.active {
+    background-color: #663300;
+    color: white;
+}
+
+.meniu-secundar li a:hover:not(.active) {
+    background-color: #555;
+    color: white;
+}
+
+.continut-stanga{
+	width:21%;
+	height:80%;
+	float:left;
+}
+
+.continut-mijloc {
+	width: 60%;
+	float:left;
+	padding-left: 15px;
+	font-family:Cursive, Arial Black;
+}
+
+.continut-dreapta {
+	width: 10%;
+	height:80%;
+	float:right;
+	padding-right: 30px;
+	text-align:center;
+}
+
+h3{text-indent:30px;}
+h2{font-weight:bold;
+text-indent:30px;}
+h1{font-weight:bold;}
